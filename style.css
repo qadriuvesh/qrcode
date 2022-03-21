@@ -41,11 +41,12 @@ p{
 }
 
 .generateQr button{
-    width: 100%;
+    width: 104%;
     padding:10px 0px;
     margin-bottom: 20px;
     font-size: 16px;
     background-color: rgba(92, 34, 201);
+    border-radius: 2px;
     border: none;
     color:white;
     cursor: pointer;
@@ -82,7 +83,8 @@ p{
         font-size: 15px;
     }
     .wrapper{
-        padding:20px 10px;
+        padding:70px 8px;
+        padding: 10px;
     }
     .para p{font-size: 10px;}
     .input input{
