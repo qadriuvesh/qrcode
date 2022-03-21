@@ -66,6 +66,9 @@ p{
     h1{
         font-size: 19px;
     }
+    .container{
+        background-color: red;
+    }
     .wrapper{
         padding:0px;
         height: 300px;
