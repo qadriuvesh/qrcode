@@ -83,7 +83,7 @@ p{
         font-size: 15px;
     }
     .wrapper{
-        padding:70px 8px;
+        /* padding:70px 8px; */
         padding: 0px;
     }
     .para p{font-size: 10px;}
